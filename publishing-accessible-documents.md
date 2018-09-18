@@ -1,4 +1,4 @@
-#Publishing accessible documents
+# Publishing accessible documents
 
 Documents published on GOV.UK or other [public sector websites must meet accessibility standards] (link to overview guide). This is so they can be used by as many people as possible, including those with disabilities.
 
@@ -90,7 +90,7 @@ You can pick up many accessibility issues by running some automated tests on you
 
 To check your PDF is accessible you can use Adobe Reader or Adobe Acrobat Pro. You should also test your PDF is accessible using a screen reader.
 
-####Adobe Reader
+#### Adobe Reader
 
 You can use Adobe Reader to find out if your PDF document is correctly tagged and structured. People using screen readers need these to be able to access your document.
 
@@ -102,11 +102,11 @@ Follow Adobe’s instructions on [using Acrobat Pro to check if your PDF is acce
 
 The PDF should pass the full check for WCAG Level AA without any warnings.
 
-####Quick screen reader check
+#### Quick screen reader check
 
 Ask a screen reader user to read through the PDF. If no-one is available to do this, use one of the following options instead.
 
-####If you’re using Windows
+#### If you’re using Windows
 
 [Non Visual Desktop Access (NVDA)](http://www.nvda-project.org/) is a free open source screen reader for Windows. It can be installed to the desktop or run from a portable USB drive.
 
@@ -119,7 +119,7 @@ With NVDA running, open the PDF and use the following commands to check the PDF:
 
 These commands will also work with the Jaws screen reader from Freedom Scientific.
 
-####If you’re using a Mac
+#### If you’re using a Mac
 
 All Apple Macs have VoiceOver built in. Turn VoiceOver on (or off again) using Command + f5. With VoiceOver running open the PDF and use the following commands to check the PDF:
 
