@@ -86,7 +86,7 @@ You can pick up many accessibility issues by running some automated tests on you
 
 ^To check your document fully meets accessibility standards, you’ll also need to do manual testing. Use the [accessibility checklist created by 18F](https://accessibility.18f.gov/checklist/) (the US government’s digital agency) to help you with your manual testing.
 
-###PDFs
+### PDFs
 
 To check your PDF is accessible you can use Adobe Reader or Adobe Acrobat Pro. You should also test your PDF is accessible using a screen reader.
 
