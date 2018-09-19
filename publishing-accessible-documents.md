@@ -1,6 +1,6 @@
 # Publishing accessible documents
 
-Documents published on GOV.UK or other [public sector websites must meet accessibility standards] (https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps). This is so they can be used by as many people as possible, including those with disabilities.
+Documents published on GOV.UK or other [public sector websites must meet accessibility standards](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps). This is so they can be used by as many people as possible, including those with disabilities.
 
 If your document does not meet the standards, you could be breaking the law.
 
